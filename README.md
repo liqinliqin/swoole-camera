@@ -9,7 +9,7 @@ pecl install swoole
 ```
 运行程序
 ----
-```php
+```shell
 php server.php
 ```
 
